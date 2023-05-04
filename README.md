@@ -1,1 +1,1 @@
-# Earthquik-Warning-System
+# Earthquake-Warning-System
